@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GABSVN
-- 👀 I’m interested in  le digital
-- 🌱 I’m currently learning  le métier du develeopper web
+- 👀 I’m  un passionné de technologie
+- 🌱  Je peaufine mes connaissances de développer Web
 - 💞️ I’m looking to collaborate on  de nouveaux projets
 - 📫  E-mail: gabs_1205@hotmail.com
 
