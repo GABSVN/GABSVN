@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GABSVN
 - 👀 I’m  un passionné de technologie
-- 🌱  Je peaufine mes connaissances de développer Web
+- 🌱 Je peaufine mes connaissances de développement Web
 - 💞️ I’m looking to collaborate on  de nouveaux projets
 - 📫  E-mail: gabs_1205@hotmail.com
 
