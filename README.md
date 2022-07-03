@@ -174,4 +174,21 @@ Faisons quelque chose d'incroyable!!
 
 
 
+---------------------------------TRASHHHH-------------------------------------------
+ /home/cf/Documents/GitHub/GABSVN/img/twitter-logo-.png
+ 
+
+
+
+
+
+-------------------------------------TRASHHHH---------------------------------------
+
+
+
+
+
+
+
+
 
