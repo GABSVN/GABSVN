@@ -13,6 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 
-<img width=”200" height=”200" src=”AtkMpxfUWdC7nQpNZd2iLt1649189142020.jpg" alt=”ma bannière”>
+<img width=”200" height=”200" src=”img/Monkey-Cyclope.jpg" alt=”ma bannière”>
 
 </p>
+
+
+img/Monkey-Cyclope.jpg
