@@ -128,7 +128,7 @@ Faisons quelque chose d'incroyable!!
 
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 
-![](https://img.shields.io/badge/Code-Sql-informational?style=flat&logo=Sql&color=003B57)
+![](https://img.shields.io/badge/Code-Prestashop-informational?style=flat&logo=Prestashop&color=003B57)
 
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=Php&color=336791)
 
