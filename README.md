@@ -128,7 +128,7 @@ Faisons quelque chose d'incroyable!!
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
 
-![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=Php&color=336791)
 
 </br>
 
