@@ -1,59 +1,3 @@
-- 👋 Hi, I’m @GABSVN
-- 👀 I’m  un passionné de technologie
-- 🌱 Je peaufine mes connaissances de développement Web
-- 💞️ I’m looking to collaborate on  de nouveaux projets
-- 📫  E-mail: gabs_1205@hotmail.com
-
-<!---
-GABSVN/GABSVN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-![GABSVN-WEBDEV-bannière-A](https://user-images.githubusercontent.com/99598124/177045761-667550bb-fdcb-4792-a2dd-2194a1266971.gif)
-
-
-<p align="center">
-
-<img width=”200" height=”200" src=”img/Monkey-Cyclope.jpg" alt=”ma bannière”>
-
-</p>
-
-
-
-
-<p align="center">
-
-<img width=”200" height=”200" src=”/home/cf/Documents/GitHub/GABSVN/img/Monkey-Cyclope.jpg" alt=”ma bannière”>
-
-</p>
-
-
-
-
-
-
-<!-- -------------------------------- -->
-
-
-
-<!----->
-
-
-jj![FaceBook-logo](https://user-images.githubusercontent.com/99598124/177048189-e0a89883-16ce-4d09-8092-46d86e4c51da.svg)
-
-![instagram](https://user-images.githubusercontent.com/99598124/177048191-3f25ab9e-30b4-42bb-bf3d-65737c027ecb.svg)
-
-![twitter-logo-](https://user-images.githubusercontent.com/99598124/177048192-bfc5a4e8-9537-4e05-9ce8-964d8ea30355.svg)
-
-
-![GABSVN-WEBDEV-bannière-A](https://user-images.githubusercontent.com/99598124/177045761-667550bb-fdcb-4792-a2dd-2194a1266971.gif)
-
-
-<!-- ---------------------------------------------- -->
-
-
-
 
 <!-- BANNIERE GABSVN WEB DEV OFFICIAL -->
 <!------------------------------------------------------- -->
@@ -64,23 +8,21 @@ jj![FaceBook-logo](https://user-images.githubusercontent.com/99598124/177048189-
 
 <!-- --------------------------------------------------- -->
 
-
-
-
-
 <h3 align="center">
-Salut, je suis <a href="https://www.gabsvn.ch/" target="_blank" rel="noreferrer">@GABSVN</a> 👋
+Salut, je suis <a href="https://www.gabsvn.ch/" target="_blank" rel="noreferrer">GABSVN</a> 👋
 </h3>
 
 <h2 align="center">
-Je suis Développer WEB Full-Stack 💻, Photographe 📸, and Designer 🎨!
+Je suis Développer WEB Full-Stack 💻, Photographe 📸 et Designer 🎨!
 </h2> 
 
-J'aime l'ensemble du processus de développement de sites Web créatifs. J'aime le défi de trouver des solutions et de passer du temps à rencontrer de nouvelles personnes. J'apprendre, maîtriser & adapter différentes téchnologies afin d'améliorer la production dans son ensemble.
+Passionné d'informatique, j'adore l'ensemble du processus de développement d'applications ou sites Web créatifs. J'aime le défi de trouver des solutions et de passer du temps à rencontrer de nouvelles personnes👀. Collaborer sur de nouveaux projets, est ma passion💞️. J'adore apprendre, maîtriser & adapter différentes téchnologies afin d'améliorer la production dans son ensemble.
 
 <h2 align="center">
 Faisons quelque chose d'incroyable!!
 </h2> 
+
+</br>
 
 ### 🤝 Connectez-vous avec moi :
 
@@ -94,19 +36,20 @@ Faisons quelque chose d'incroyable!!
 
 <!-------Instagram-------------------->
 
-<a href="https://instagram.com/realgabsun"><img align="left" src="https://user-images.githubusercontent.com/99598124/177048191-3f25ab9e-30b4-42bb-bf3d-65737c027ecb.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://instagram.com/realgabsun"><img align="left" src="https://user-images.githubusercontent.com/99598124/177048191-3f25ab9e-30b4-42bb-bf3d-65737c027ecb.svg" alt="realgabsun | Instagram" width="21px"/></a>
 
 <!--------------------------->
 
 <!-------Twitter-------------------->
 
-<a href="https://https://twitter.com/realgabsvn/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://https://twitter.com/realgabsvn/"><img align="left" src="https://user-images.githubusercontent.com/99598124/177050789-547e5a65-08c8-47f7-b3d9-c1fea8c4b002.png" alt="realgabsun | Twitter" width="21px"/></a>
 
 <!--------------------------->
 
-
 </br>
 - 💬 Si vous avez des questions/commentaires, n'hésitez pas à me contacter !
+
+- 📫  E-mail: gabs_1205@hotmail.com
 
 ## 🔭 Je travaille actuellement sur:
 
@@ -119,34 +62,24 @@ Faisons quelque chose d'incroyable!!
 ## 💼 Compétences techniques
 
 ![](https://img.shields.io/badge/Code-Wordpress-informational?style=flat&logo=Wordpress&color=336791)
-
 ![](https://img.shields.io/badge/Style-Prestashop-informational?style=flat&logo=Prestashop&color=0081CB)
-
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=Php&color=336791)
 
 </br>
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-
 ![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
 
 
 </br>
 
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
-
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 
@@ -169,7 +102,7 @@ Faisons quelque chose d'incroyable!!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GABSVN&layout=compact)](https://github.com/GABSVN)
 
 
-<!-- ------------Statistiques GitHub------------>
+<!-- ---------------------->
 
 
 
