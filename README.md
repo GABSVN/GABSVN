@@ -44,6 +44,12 @@ Faisons quelque chose d'incroyable!!
 
 <!--------------------------->
 
+<!-------Discord-------------------->
+<!-- 
+<a href="https://discord.com/@me/"><img align="left" src="https://user-images.githubusercontent.com/99598124/177052799-acd455bf-e56a-4121-949e-c6e83cf13ff6.png" alt="realgabsun | Discord" width="21px"/></a> -->
+
+<!--------------------------->
+
 </br>
 
 - 💬 Si vous avez des questions/commentaires, n'hésitez pas à me contacter !
