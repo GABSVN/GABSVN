@@ -32,53 +32,89 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- -------------------------------- -->
-<!-- ---------------------------------------------- -->
 
 
 
+<!----->
 
 
+jj![FaceBook-logo](https://user-images.githubusercontent.com/99598124/177048189-e0a89883-16ce-4d09-8092-46d86e4c51da.svg)
 
+![instagram](https://user-images.githubusercontent.com/99598124/177048191-3f25ab9e-30b4-42bb-bf3d-65737c027ecb.svg)
 
+![twitter-logo-](https://user-images.githubusercontent.com/99598124/177048192-bfc5a4e8-9537-4e05-9ce8-964d8ea30355.svg)
 
 
 ![GABSVN-WEBDEV-bannière-A](https://user-images.githubusercontent.com/99598124/177045761-667550bb-fdcb-4792-a2dd-2194a1266971.gif)
 
 
+<!-- ---------------------------------------------- -->
+
+
+
+
+<!-- BANNIERE GABSVN WEB DEV OFFICIAL -->
+<!------------------------------------------------------- -->
 
 <p align="center">
   <a href="https://www.gabsvn.ch/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/99598124/177045761-667550bb-fdcb-4792-a2dd-2194a1266971.gif" alt="my banner"></a>
 </p>
 
+<!-- --------------------------------------------------- -->
+
+
+
+
+
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Salut, je suis <a href="https://www.gabsvn.ch/" target="_blank" rel="noreferrer">Gabriel</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+Je suis Développer WEB Full-Stack 💻, Photographe 📸, and Designer 🎨!
 </h2> 
 
-J'aime l'ensemble du processus de développement de sites Web créatifs. J'aime le défi de trouver des solutions et de passer du temps à rencontrer de nouvelles personnes. Apprendre, maîtriser & adapter différentes téchnologies afin d'améliorer la production dans son ensemble.
+J'aime l'ensemble du processus de développement de sites Web créatifs. J'aime le défi de trouver des solutions et de passer du temps à rencontrer de nouvelles personnes. J'apprendre, maîtriser & adapter différentes téchnologies afin d'améliorer la production dans son ensemble.
 
+<h2 align="center">
 Faisons quelque chose d'incroyable!!
+</h2> 
 
-### 🤝 Connect with me:
+### 🤝 Connectez-vous avec moi :
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+
+<!-------Linkedin-->
+
+<a href="https://www.linkedin.com/in/gabriel-ferreira-221ba0b7/"><img align="left" src="https://user-images.githubusercontent.com/99598124/177048143-c56e6ee9-1bbd-4271-ba03-192693eb0f44.svg" alt="Gabriel Ferreira | LinkedIn" width="21px"/></a>
+
+<!---------------------------------->
+
+
+<!-------Instagrame-------------------->
+
 <a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+
+<!--------------------------->
+
+<!-------Twitter-------------------->
+
+<a href="https://https://twitter.com/realgabsvn/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+
+<!--------------------------->
+
+
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 Si vous avez des questions/commentaires, n'hésitez pas à me contacter !
 
-## 🔭 I'm currently working on
+## 🔭 Je travaille actuellement sur:
 
-- Restaurant Recommendation App (MERN)
+- Portfolios | Différents profils clients (REALISE)
 
-## 🌱 I'm currently learning
+## 🌱 J'apprends actuellement
 
-- 📱 React Native
+- 📱 Wordpress
 
-## 💼 Technical Skills
+## 💼 Compétences techniques
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
@@ -109,16 +145,28 @@ Faisons quelque chose d'incroyable!!
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 📝 Latest Blog Posts
 
-- [How to Create a Beautiful README for Your GitHub Profile](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
-- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
 
-## 📈 GitHub Stats 
+
+<!-- ------------Blog------------
+## 📝 Derniers articles de blog:
+
+---------------------------- -->
+
+
+
+
+## 📈 Statistiques GitHub:
 
 [![Yu's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+
+
+
+[![Statistiques github d'Anurag](https://github-readme-stats.vercel.app/api?username=GABSVN)](https://github.com/GABSVN)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GABSVN&layout=compact)](https://github.com/GABSVN)
+
+
+
