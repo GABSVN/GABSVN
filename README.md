@@ -22,8 +22,6 @@ Passionné d'informatique, j'adore l'ensemble du processus de développement d'a
 Faisons quelque chose d'incroyable!!
 </h2> 
 
-</br>
-
 ### 🤝 Connectez-vous avec moi :
 
 
@@ -103,25 +101,3 @@ Faisons quelque chose d'incroyable!!
 
 
 <!-- ---------------------->
-
-
-
-
----------------------------------TRASHHHH-------------------------------------------
- /home/cf/Documents/GitHub/GABSVN/img/twitter-logo-.png
- 
-
-
-
-
-
--------------------------------------TRASHHHH---------------------------------------
-
-
-
-
-
-
-
-
-
