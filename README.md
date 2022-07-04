@@ -16,7 +16,7 @@ Salut, je suis <a href="https://www.gabsvn.ch/" target="_blank" rel="noreferrer"
 Je suis Développer WEB Full-Stack 💻, Photographe 📸 et Designer 🎨!
 </h2> 
 
-Passionné d'informatique, j'adore l'ensemble du processus de développement d'applications ou sites Web créatifs. J'aime le défi de trouver des solutions et de passer du temps à rencontrer de nouvelles personnes👀. Collaborer sur de nouveaux projets, est ma passion💞️. J'adore apprendre, maîtriser & adapter différentes téchnologies afin d'améliorer la production dans son ensemble.
+Passionné d'informatique, j'adore l'ensemble du processus de développement d'applications ou sites Web créatifs. J'aime le défi de trouver des solutions et de passer du temps à rencontrer de nouvelles personnes👀. Collaborer sur de nouveaux projets, est ma passion💞️. J'adore apprendre, maîtriser & adapter différentes technologies afin d'améliorer la production dans son ensemble.
 
 <h2 align="center">
 Faisons quelque chose d'incroyable!!
