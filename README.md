@@ -54,7 +54,7 @@ Faisons quelque chose d'incroyable!!
 
 - 💬 Si vous avez des questions/commentaires, n'hésitez pas à me contacter !
 
-- 📫 E-mail: gabs_1205@hotmail.com
+- 📫 E-mail: j.gabriel.fds.1@gmail.com
 
 ## 🔭 Je travaille actuellement sur:
 
