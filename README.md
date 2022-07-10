@@ -1,9 +1,11 @@
+<!-- -------awesome badge-------------------------------------- -->
 
 <div align="center">
   <br /><br />
-  <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a>
+  <a href="https://gabsvn.ch"><img src="https://awesome.re/badge-flat.svg" /></a>
   <br /><br /><br />
 </div>
+<!------------------------------------------------------- -->
 
 
 <!-- BANNIERE GABSVN WEB DEV OFFICIAL -->
@@ -75,11 +77,15 @@ Faisons quelque chose d'incroyable!!
 
 ![](https://img.shields.io/badge/Cms-Wordpress-informational?style=flat&logo=Wordpress&color=336791)
 ![](https://img.shields.io/badge/Cms-Prestashop-informational?style=flat&logo=Prestashop&color=0081CB)
+
+</br>
+
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=Php&color=336791)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=Php&color=336791)
 
 </br>
 
