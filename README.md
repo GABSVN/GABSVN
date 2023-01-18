@@ -122,12 +122,10 @@ Faisons quelque chose d'incroyable!!
 
 <!-- -------IMG LightMode--------------->
 <p align="center">
-  <a href="https://www.gabsvn.ch/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/99598124/213056153-26aa1876-5053-42fa-8786-71d914b5886b.png" alt="my banner"></a>
-
-<picture>
+<picture>  
+  <a href="https://www.gabsvn.ch/" target="_blank" rel="noreferrer"><img alt="Show the Logo-GABSVN_WebDev_Official in LightMode & in DarkMode." src="https://user-images.githubusercontent.com/99598124/213056153-26aa1876-5053-42fa-8786-71d914b5886b.png">
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/99598124/213056153-26aa1876-5053-42fa-8786-71d914b5886b.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/99598124/213056290-4d9ab4b8-866d-456a-880e-8eaee8613371.png">
-  <img alt="Show the Logo-GABSVN_WebDev_Official in LightMode & in DarkMode." src="https://user-images.githubusercontent.com/99598124/213056153-26aa1876-5053-42fa-8786-71d914b5886b.png">
 </picture>
 
 </p>
