@@ -121,6 +121,7 @@ Faisons quelque chose d'incroyable!!
 
 </br>
 </br>
+</br>
 
 <!-- -------IMG LightMode--------------->
 <p align="center">
@@ -130,11 +131,9 @@ Faisons quelque chose d'incroyable!!
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/99598124/213056290-4d9ab4b8-866d-456a-880e-8eaee8613371.png">
 </picture>
 
-</p>
 
-</p>
-</p>
-</p>
-</p>
-</p>
+</br>
+</br>
+</br>
+  
 <!-- ---------------------->
