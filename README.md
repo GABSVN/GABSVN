@@ -122,7 +122,7 @@ Faisons quelque chose d'incroyable!!
 
 <!-- -------IMG LightMode--------------->
 <p align="center">
-  <a href="https://www.gabsvn.ch/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/99598124/213043502-d796cca9-e677-480a-8854-69c5d73c6db7.png" alt="my banner"></a>
+  <a href="https://www.gabsvn.ch/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/99598124/213056153-26aa1876-5053-42fa-8786-71d914b5886b.png" alt="my banner"></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/99598124/213056153-26aa1876-5053-42fa-8786-71d914b5886b.png">
