@@ -125,8 +125,8 @@ Faisons quelque chose d'incroyable!!
   <a href="https://www.gabsvn.ch/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/99598124/213043502-d796cca9-e677-480a-8854-69c5d73c6db7.png" alt="my banner"></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/99598124/213054062-09c80330-a99a-4223-9ba0-5406fcd08f44.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/99598124/213043502-d796cca9-e677-480a-8854-69c5d73c6db7.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/99598124/213056153-26aa1876-5053-42fa-8786-71d914b5886b.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/99598124/213056290-4d9ab4b8-866d-456a-880e-8eaee8613371.png">
   <img alt="Show the Logo-GABSVN_WebDev_Official in LightMode & in DarkMode." src="https://user-images.githubusercontent.com/99598124/213054062-09c80330-a99a-4223-9ba0-5406fcd08f44.png">
 </picture>
 
@@ -147,5 +147,9 @@ Faisons quelque chose d'incroyable!!
 ![Logo-GABSVN_WebDev_Official-DarkMode](https://user-images.githubusercontent.com/99598124/213054062-09c80330-a99a-4223-9ba0-5406fcd08f44.png)
 
 
+![Logo-GABSVN_WebDev_Official-DarkMode-removebg-preview](https://user-images.githubusercontent.com/99598124/213056153-26aa1876-5053-42fa-8786-71d914b5886b.png)
 
+
+<!-- -------IMG LightMode--------------->
+![Logo-GABSVN_WebDev_Official-A-removebg-preview-PNG-](https://user-images.githubusercontent.com/99598124/213056290-4d9ab4b8-866d-456a-880e-8eaee8613371.png)
 
