@@ -36,20 +36,20 @@ Faisons quelque chose d'incroyable!!
 
 <!-------Linkedin-->
 
-<a href="https://www.linkedin.com/in/gabriel-ferreira-221ba0b7/"><img align="left" src="https://user-images.githubusercontent.com/99598124/177048143-c56e6ee9-1bbd-4271-ba03-192693eb0f44.svg" alt="Gabriel Ferreira | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/gabriel-fds/"><img align="left" src="https://user-images.githubusercontent.com/99598124/177048143-c56e6ee9-1bbd-4271-ba03-192693eb0f44.svg" alt="Gabriel Ferreira | LinkedIn" width="21px"/></a>
 
 <!---------------------------------->
 
 
 <!-------Instagram-------------------->
 
-<a href="https://instagram.com/realgabsun"><img align="left" src="https://user-images.githubusercontent.com/99598124/177048191-3f25ab9e-30b4-42bb-bf3d-65737c027ecb.svg" alt="realgabsun | Instagram" width="21px"/></a>
+<a href="https://instagram.com/gabsvn_webdev"><img align="left" src="https://user-images.githubusercontent.com/99598124/177048191-3f25ab9e-30b4-42bb-bf3d-65737c027ecb.svg" alt="realgabsun | Instagram" width="21px"/></a>
 
 <!--------------------------->
 
 <!-------Twitter-------------------->
 
-<a href="https://https://twitter.com/realgabsvn/"><img align="left" src="https://user-images.githubusercontent.com/99598124/177050789-547e5a65-08c8-47f7-b3d9-c1fea8c4b002.png" alt="realgabsun | Twitter" width="21px"/></a>
+<a href="https://twitter.com/realgabsvn"><img align="left" src="https://user-images.githubusercontent.com/99598124/177050789-547e5a65-08c8-47f7-b3d9-c1fea8c4b002.png" alt="realgabsun | Twitter" width="21px"/></a>
 
 <!--------------------------->
 
