@@ -128,10 +128,11 @@ Faisons quelque chose d'incroyable!!
 <picture>  
   <a href="https://www.gabsvn.ch/" target="_blank" rel="noreferrer"><img alt="Show the Logo-GABSVN_WebDev_Official in LightMode & in DarkMode." src="https://github.com/user-attachments/assets/0e77f562-51d7-4301-9274-641a8dc13cd7">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/0e77f562-51d7-4301-9274-641a8dc13cd7">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0ce4c295-5c26-4b1a-bce6-c358c12e5f73">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6e099ec7-6ad8-482d-a74b-ed0e60e3358e">
 </picture>
 
 </br>
+
 
 </br>
 </br>
